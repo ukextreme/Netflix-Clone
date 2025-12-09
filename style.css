@@ -362,6 +362,18 @@ footer a{
         margin-bottom: 40px;
         height: auto; 
     }
+
+    #xyz {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        color: white;
+        padding: 20px 20px 30px 20px;
+        height: auto;
+        gap: 10px;
+    }
 }
+
 
 
